@@ -9,8 +9,8 @@ We use:
 - Python (Pandas, Matplotlib, Seaborn) for analysis
 - Tableau for dashboard visualization
 
----
-
-## 📂 Project Structure
+----
+## Tableau Dashboard
+You can explore the interactive dashboard [here](https://public.tableau.com/views/ev_sales/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 # EV-Analysis_Project
